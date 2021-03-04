@@ -1,4 +1,4 @@
-# Nuemrai Starter Kit
+# Numerai Starter Kit
 A quick template for getting started with Numerai and numerapi in a google Colab notebook
 
 To get started immediately, check out the [colab notebook](https://colab.research.google.com/github/djliden/numerai_starter_kit/blob/main/Numerai_Starter_Kit.ipynb)!
